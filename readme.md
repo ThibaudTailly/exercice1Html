@@ -6,7 +6,7 @@ La *Web agency* **"Orély"** souhaite de nouveau tester vos capacités en HTML e
 
 Il s'agit d'un tableau de comparaison d'une site de Kitesurf : **Duotone** anciennement North.  
 
-![Planches de Kite](img/capture.PNG "Planche de Kites")  
+![Planches de Kite](img/Capture.PNG "Planche de Kites")  
 ***(Désolé de la la qualité)***
 
 ## Structure du dossier
