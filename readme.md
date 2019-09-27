@@ -1,13 +1,13 @@
-# COPYCAT
+# FIRSTPAGE
 > Le TP doit respecter les normes et les standards du WEB (ex. https://www.w3.org/ et https://checklists.opquast.com/fr/)
 
 ## Mise en situation
-La *Web agency* **"Orély"** souhaite tester vos capacités en HTML et CSS. Pour cela, elle a besoin que vous reproduisiez à l'identique un élément d'un site web.  
+La *Web agency* **"Orély"** souhaite de nouveau tester vos capacités en HTML et CSS. Pour cela, elle a besoin que vous reproduisiez à l'identique un élément d'un site web. C'est la dernière fois, promis ;) !!    
 
-Il s'agit d'une offre d'une agence de voyage : Marmara    
+Il s'agit d'un tableau de comparaison d'une site de Kitesurf : **Duotone** anciennement North.  
 
-![Piscine & Hotel](img/copycat.PNG "Piscine & Hotel")  
-***(Ne pas prendre en compte les petits points blancs sur la photo de la piscine)***
+![Planches de Kite](img/capture.PNG "Planche de Kites")  
+***(Désolé de la la qualité)***
 
 ## Structure du dossier
 Le dossier de ce test sera composé de cette manière :
