@@ -1,8 +1,57 @@
-table
-{
+table {
     border-collapse: collapse;
 }
-td, th /* Mettre une bordure sur les td ET les th */
+
+td,
+th
+/* Mettre une bordure sur les td ET les th */
+
 {
     border: 1px solid black;
+}
+
+th:nth-child(2n-1) {
+    background-color: lightgrey;
+}
+
+th:nth-child(2n) {
+    background-color: grey;
+}
+
+td:nth-child(2n-1),
+h1 {
+    background-color: lightgrey;
+}
+
+td:nth-child(2n),
+h1 {
+    background-color: grey;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: red;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: yellow;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: 25px;
+}
+
+p {
+    text-align: center;
+}
+
+td {
+    text-align: center;
 }
